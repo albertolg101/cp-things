@@ -12,7 +12,7 @@ using namespace std;
 #else
 #define db(...) false
 #define dbg(...) false 
-#define dbg(...) false
+#define dbl(...) false
 #endif
 
 #define int long long
