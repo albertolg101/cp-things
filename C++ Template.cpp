@@ -17,12 +17,16 @@ using namespace std;
 
 #define int long long
 
+const int INF = 2e9;
+
 int32_t main()
 {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-    //freopen("z.txt", "r", stdin);
+#ifdef ALBE_PC
+    freopen("z.txt", "r", stdin);
+#endif // ALBE_PC
 
 
 
