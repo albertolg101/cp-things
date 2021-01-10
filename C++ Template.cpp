@@ -17,7 +17,8 @@ using namespace std;
 
 #define int long long
 
-const int INF = 2e9;
+const int INF = 2e9,
+          MOD = 1e9+7;
 
 int32_t main()
 {
