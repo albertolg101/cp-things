@@ -16,6 +16,7 @@ using namespace std;
 #endif
 
 #define int long long
+#define endl '\n'
 
 const int INF = 2e9,
           INFLL = 1e18,
