@@ -1,9 +1,5 @@
 #include <bits/stdc++.h>
 
-#pragma GCC optimize("Ofast","unroll-loops","omit-frame-pointer","inline") //Optimization flags
-#pragma GCC option("arch=native","tune=native","no-zero-upper") //Enable AVX
-#pragma GCC target("avx2") //Enable AVX
-
 using namespace std;
 
 #ifdef __debug_leywar
