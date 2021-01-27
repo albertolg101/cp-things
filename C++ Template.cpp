@@ -1,17 +1,14 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+using ll = long long;
 
 #ifdef __debug_leywar
 #include <debug/debugger.h>
-#include<cf/testlib.h>
-#else
-#define db(...) false
-#define dbg(...) false 
-#define dbl(...) false
+#elseif ALBE_PC
+#include "debug/debugger.h>
 #endif
 
-#define int long long
 #define endl '\n'
 
 const int INF = 2e9,
@@ -28,6 +25,8 @@ int32_t main()
 #endif // ALBE_PC
 
 
+          
+          
 
     return 0;
 }
