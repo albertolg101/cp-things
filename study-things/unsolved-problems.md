@@ -1,8 +1,7 @@
-# Unsolved Problems
 
-## [OI's style](https://oichecklist.pythonanywhere.com/view/my/)
+# Unsolved Problems:
 
-### [USACO](usaco.org)
+## [OI's style:](https://oichecklist.pythonanywhere.com/view/my/)
 
-## [codeforces's style](codeforces.com)
 
+## [codeforces's style:](https://codeforces.com)
