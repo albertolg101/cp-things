@@ -1,7 +1,5 @@
 
 # Unsolved Problems:
 
-## [OI's style:](https://oichecklist.pythonanywhere.com/view/my/)
-
-
-## [codeforces's style:](https://codeforces.com)
+### codeforces:
+  - [E. You Are Given Some Strings...](https://codeforces.com/contest/1202/problem/E)
