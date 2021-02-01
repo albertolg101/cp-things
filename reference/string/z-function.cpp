@@ -1,5 +1,6 @@
-//From cp-algorithm (https://cp-algorithms.com/string/z-function.html)
-//Not tested yet
+//From cp-algorithm: (https://cp-algorithms.com/string/z-function.html)
+//Tested in Codeforces: (https://codeforces.com/contest/1202/problem/E)
+//Time Complexy: O(N)
 
 vector<int> z_function (string s)
 {
