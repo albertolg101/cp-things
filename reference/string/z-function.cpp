@@ -1,7 +1,7 @@
 //From cp-algorithm (https://cp-algorithms.com/string/z-function.html)
 //Not tested yet
 
-vector<int> z_function (string &s)
+vector<int> z_function (string s)
 {
 	vector<int> z(s.size());
 	for(int i = 1, l = 0, r = 0 ; i < s.size() ; i++)
