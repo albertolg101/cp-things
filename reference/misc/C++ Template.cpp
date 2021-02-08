@@ -9,9 +9,8 @@ using namespace std;
 #endif
 
 const int INF = 2e9,
-          MOD = 1e9+7;
-
-const ll INFLL = 1e18;
+          MOD = 1e9+7,
+          INFLL = 1e18;
 
 int32_t main()
 {
