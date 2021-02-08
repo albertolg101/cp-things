@@ -1,12 +1,13 @@
 #include <bits/stdc++.h>
-#define int long long
-#define endl '\n'
 
 using namespace std;
 
 #ifdef __local_leywar
 #include <debug/debugger.h>
 #endif
+
+#define int long long
+#define endl '\n'
 
 const int INF = 2e9,
           MOD = 1e9+7,
