@@ -14,6 +14,7 @@ const int INF = 2e9,
           INFLL = 1e18;
 
 using pii = pair<int, int>;
+mt19937_64 rng(time(0));
 
 int32_t main()
 {
